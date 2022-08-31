@@ -10,14 +10,4 @@ class ConvertionClass : AppCompatActivity()  {
         setContentView(R.layout.activity_convertion_class)
     }
 
-
-
-
-
-
-
-
-
-
-
     }
