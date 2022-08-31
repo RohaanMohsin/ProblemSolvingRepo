@@ -7,6 +7,8 @@ import kotlin.math.pow
 
 class MainActivity : AppCompatActivity() {
 
+
+
     val num = intArrayOf(10,40,20, 30,15,50,60 )
     var a = 50
     var b = 120
